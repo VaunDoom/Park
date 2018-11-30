@@ -1,3 +1,25 @@
+body {
+    background-color: green;
+}
+section {
+    background-color: darkgreen;
+
+    color: gold;
+    position: relative;
+    top: 50.5%;
+    left: 18%;
+    max-width: 1024px;
+    height: 550px;
+}
+
+section2 {
+    background-color: darkgreen;
+    position: absolute;
+    width: 1028px;
+    left: 18%;
+    top: 950px;
+}
+
 article {
     font: 120% Tw Cen Mt;
     color: gold;
@@ -27,14 +49,6 @@ aside {
     float: right;
 }
 h1 {
-    position: relative;
-    left: 18%;
-    top: 0%;
-    margin: 0px;
-    padding: -50px;
-    color: gold;
-}
-h1top {
     position: relative;
     left: 18%;
     top: 0%;
