@@ -1,0 +1,112 @@
+ article {
+                font: 120% Tw Cen Mt;
+                color: gold;
+                padding: 0 10px 10px 10px;
+                margin: 20px 5px 0 20px;
+                max-width: 50%;
+                float: left;
+            }
+            article2 {
+                font: 120% Tw Cen Mt;
+                color: gold;
+                padding: 0 10px 10px 10px;
+                margin: 20px 5px 0 20px;
+              
+                float: left;
+
+            }
+           
+        
+            
+            aside {
+                font: 120% Tw Cen Mt;
+                color: purple;
+                background-color: gold;
+                padding: 0 10px 10px 10px;
+                margin: 20px 25px 0 5px;
+                text-align: left;
+                max-width: 40%;
+               
+                float: right;
+            }
+            h1 {
+                
+                position: relative;
+                left: 18%;
+                top: 0%;
+                margin: 0px;
+                padding: -50px; 
+                color: gold;
+               
+            }
+            h1top {
+                position: relative;
+                left: 18%;
+                top: 0%;
+                margin: 0px;
+                padding: -50px; 
+                color: gold;
+            }
+            h2 {
+                position: relative;
+                font:  300% Tw Cen Mt;
+                left: 18%;
+                top: 0px%;
+                margin: 0px;
+                padding: -50px; 
+                color: purple;
+                background-color: gold;
+                max-width: 1024px;
+               
+            }
+            #list {
+               
+               
+                font: 200% Tw Cen Mt;
+                color:gold;
+            
+                position: relative;
+                top: 0px;
+                left: 640px; 
+                
+               
+                
+            }
+            #list li {
+                display:inline;
+                padding: 0.5em;
+                
+             
+               
+            }
+            
+            
+            #slide {
+                position: relative;
+                float:right;
+                
+            }
+            #blue {
+                position: relative;
+                top: 0%;
+                left:8%;
+             }
+            
+            footer {
+                font: 100% Tw Cen Mt; 
+                
+                color: purple;
+                background-color: gold;
+                position: relative;
+                text-align: center;
+                top: 687px;
+                left: 18%;
+                max-width: 1024px;     
+           
+                    
+            }
+            #footerlist li {
+                display: inline;
+                padding: 0.5em;
+            }
+            
